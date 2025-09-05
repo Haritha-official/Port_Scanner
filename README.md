@@ -24,7 +24,7 @@ A fast and efficient multi-threaded port scanner built in Python. This tool scan
 
 Clone the repository and navigate into the project folder:
 
-git clone https://github.com/Haritha-official/Port-Scanner.git
+git clone https://github.com/Haritha-official/Port_Scanner.git
 
 No external dependencies are required (only Python standard library).
 
